@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->I'm a passionate computer engineering student with a keen interest in data science, innovation, and entrepreneurship. My journey into the world of technology started with a curiosity about how computers work, and I've been hooked ever since.
+
+Currently, I'm exploring the field of data science and its applications to real-world problems. I'm fascinated by the insights that can be extracted from data, and how it can be used to drive innovation and decision-making.
+
+I'm also an avid user of Debian, and I love exploring new tools and technologies to improve my workflow and expand my skill set. Whether it's learning a new programming language or exploring a new data analysis tool, I'm always up for a challenge.
+
+If you're interested in connecting or collaborating on a project, feel free to reach out. Let's create something amazing together!
