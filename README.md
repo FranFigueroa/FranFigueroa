@@ -20,3 +20,8 @@ Currently, I'm exploring the field of data science and its applications to real-
 I'm also an avid user of Debian, and I love exploring new tools and technologies to improve my workflow and expand my skill set. Whether it's learning a new programming language or exploring a new data analysis tool, I'm always up for a challenge.
 
 If you're interested in connecting or collaborating on a project, feel free to reach out. Let's create something amazing together!
+
+Contact
+You can reach out to me via email at francofigueroa321@gmail.com, or connect with me on LinkedIn at https://www.linkedin.com/in/franco-figueroa-575696193/. You can also follow me on Twitter at @yourusername for updates on my latest projects and interests.
+
+I'd love to hear from you and explore potential collaborations or opportunities. Don't hesitate to reach out!
